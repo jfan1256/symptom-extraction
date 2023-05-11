@@ -36,3 +36,10 @@ This python file, coded in jupyter notebook, preprocesses and concatenates all t
 ### _"dataset" File_
 This dataset contains three columns: Sentence, Word, and Tag. The sentence column is used to categorize each word into a given sentence. The word column contains all words used in each EHR. The tag column tags each word as either 0 or 1 (0 means non-symptom word; 1 means symptom word).
 
+### _"GRU + Fine-Tuned Embeddings" File_
+This python file, coded in jupyter notebook, creates the best-performing deep learning model proposed in our research paper. You can run this code to train your own model or you can load our best performing model using file _"model1.h5"_.
+
+### _"BestModel"_ File
+This h5 file is the exported model created from file _"GRU + Fine-Tuned Embeddings"_. 
+
+### _"embedding" Folder_
