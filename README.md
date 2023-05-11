@@ -37,9 +37,13 @@ This python file, coded in jupyter notebook, preprocesses and concatenates all t
 This dataset contains three columns: Sentence, Word, and Tag. The sentence column is used to categorize each word into a given sentence. The word column contains all words used in each EHR. The tag column tags each word as either 0 or 1 (0 means non-symptom word; 1 means symptom word).
 
 ### _"GRU + Fine-Tuned Embeddings" File_
-This python file, coded in jupyter notebook, creates the best-performing deep learning model proposed in our research paper. You can run this code to train your own model or you can load our best performing model using file _"model1.h5"_.
-
-### _"BestModel"_ File
-This h5 file is the exported model created from file _"GRU + Fine-Tuned Embeddings"_. 
+This python file, coded in jupyter notebook, creates the best-performing deep learning model proposed in my research paper. It utilizes a GRU deep learning framework to classify each word as a symptom or not. To capture word semantics it utilzies a combination of Google's GLoVe Embedding combined with the my self-trained word embedding. This self-trained word embedding was trained on the MIMIC-III dataset using the FastText model. In order to reduce overfiting, the model utilizes Sample Weights, Stratified10Fold Validation, and Early Stopping function. The model was evaluated using F1-Metric.
 
 ### _"embedding" Folder_
+This folder contains all three preexisting embedding matrices that has been created and trained through my self-training and fine-tuning algorithm. The models utilized are GLoVe, FastTexts, and Word2Vec respectively. 
+
+### _"allModels" Folder_
+This folder contains all the models that I designed and experimented with in order to find the best performing model. These models can be used as benchmarks or a basis for future experimentations. 
+
+## Goal
+Currently the best performing model achieves at 0.956 F1 Score. Utilize this code as a basis for future experimentations. For example, try utilizing a different classifier model, such as XLNet. In addition, try self-training or fine-tuning your own Word2Vec or FastText model on a different dataset. Lastly, expand the dataset and add more token words to increase performance and suitability. 
