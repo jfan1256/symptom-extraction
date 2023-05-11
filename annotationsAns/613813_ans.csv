@@ -1,0 +1,39 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,dyspnea
+1,diaphoresis
+2,nausea
+3,vomiting
+4,palpitations
+5,associated symptoms
+6,dyspnea
+7,chest pain
+8,pain
+9,lost weight
+10,fever
+11,chills
+12,rashes
+13,pruritus
+13,itching
+14,night sweats
+15,fatigue
+16,palpitations
+17,dyspnea
+17,shortness of breath
+18,orthopnea
+19,paroxysmal nocturnal dyspnea
+20,edema
+21,abdominal pain
+22,nausea
+23,vomiting
+24,diarrhea
+25,constipation
+26,blood in stools
+26,hematochezia
+27,dysuria
+27,pain with urination
+28,hematuria
+28,blood in urine
+29,chest discomfort
+29,chest pounding
+29,pounding sensation
+30,chest pressure

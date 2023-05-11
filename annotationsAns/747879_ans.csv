@@ -1,0 +1,35 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,fever
+1,cardiac symptoms
+2,exertional limitation
+2,decreased exercise tolerance
+3,symptoms localizing infectious process
+3,localizing symptoms
+4,fatigue
+5,nasal congestion
+6,cough
+7,malaise
+8,arthralgias
+8,joint aches
+9,blood streaked secretions
+10,dyspnea on exertion
+11,night sweats
+12,loose stools
+13,weakness
+14,muscle
+15,joint aches
+16,chills
+17,cough
+18,headache
+19,diarrhea
+20,dyspnea on exertion
+21,paroxysmal nocturnal dyspnea
+22,orthopnea
+23,chest pain
+24,nausea
+25,vomiting
+26,anorexia
+27,weight loss
+28,flu like syndrome
+29,feeling well
+30,any symptom

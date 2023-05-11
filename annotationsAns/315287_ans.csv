@@ -1,0 +1,44 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,pre-syncope
+1,syncope
+2,syncope
+3,fall
+4,pre-syncope
+5,syncope
+6,fall
+6,falls
+7,syncope
+8,fall
+8,falls
+9,falling
+10,fall
+10,fell
+11,head trauma
+12,lightheadedness
+13,weakness
+14,poor appetite
+14,decreased appetite
+15,nausea
+16,vomiting
+17,total body pain
+18,weakness
+19,fever
+20,chills
+21,sweats
+21,diaphoresis
+22,diarrhea
+23,vertigo
+24,chest discomfort
+25,chest pain
+26,fall
+26,falls
+27,confused
+28,slowed slurred speech
+29,fall
+29,falls
+30,syncope
+31,fall
+32,weakness
+33,fall
+33,falls
+34,weakness

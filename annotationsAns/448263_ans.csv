@@ -1,0 +1,35 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,nausea
+1,vomiting
+2,weakness
+3,fever
+4,nasal congestion
+5,change in mental status
+5,altered mental status
+5,confusion
+6,fecal incontinence
+7,fatigue
+8,chest pain
+9,tingling
+9,pins and needle feelings
+10,back pain
+11,diaphoresis
+11,diaphoretic
+12,sick in the stomach
+12,abdominal discomfort
+13,joint pain
+14,head trauma
+15,loss of continence
+16,seizure activity
+17,cough
+18,sore throat
+19,dysuria
+20,hematuria
+21,nasal congestion
+22,shortness of breath
+23,low back pain
+24,syncope
+25,syncope
+26,leg ache
+27,leg pain
+28,fall

@@ -1,0 +1,36 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,syncope
+1,back pain
+2,back pain
+3,numbness
+4,tingling
+5,passed out
+5,loss of consciousness
+6,fall
+6,fell
+7,felt her heart racing
+7,palpitations
+8,diaphoretic
+8,diaphoresis
+9,shortness of breath
+10,chest pain
+11,dizziness
+12,vertigo
+13,other symptoms
+13,any other symptom
+14,headache
+15,vomiting
+16,loss of bowel function
+17,loss of bladder function
+18,passed out
+18,loss of consciousness
+19,chest tightness/pressure
+19,chest tightness
+19,chest pressure
+19,chest pain
+20,shortness of breath
+21,diaphoresis
+22,edema
+22,swelling
+23,orthopnea
+24,paroxysmal nocturnal dyspnea

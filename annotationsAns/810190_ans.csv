@@ -1,0 +1,28 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,fever
+0,pain at injection sites
+1,cough
+2,hemoptysis
+3,dysuria
+4,increased frequency
+4,urinary frequency
+5,short of breath
+5,shortness of breath
+6,headache
+7,chest pain
+8,hemoptysis
+9,abdominal pain
+10,nausea
+11,vomiting
+12,diarrhea
+13,numbness
+14,swelling
+15,leg pain
+16,rash
+17,bumps
+17,skin lesions
+18,pain
+18,lesion pain
+19,chest wall pain
+20,fatigue
+21,lethargy

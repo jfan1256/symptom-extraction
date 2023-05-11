@@ -1,0 +1,22 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,abdominal pain
+1,nausea
+2,vomiting
+2,emesis
+3,chills
+4,fever
+4,febrile
+5,urinary pain
+6,constipation
+7,diarrhea
+8,melena
+9,hematochezia
+10,reduced oral intake
+11,fatigue
+12,myalgias
+13,cough
+14,chest pain
+15,shortness of breath
+16,dysuria
+17,oliguric
+18,anuric

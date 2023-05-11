@@ -1,0 +1,30 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,fall
+0,falls
+1,syncope
+2,gi bleed
+3,syncope
+3,syncopal episode
+4,not remembering how he got there
+5,chest pain
+6,shortness of breath
+7,palpitations
+8,nausea
+9,diaphoresis
+10,aura
+11,post-ictal state
+12,jaw pain
+13,angina
+13,chest pain
+14,dyspnea on exertion
+15,paroxysmal nocturnal dyspnea
+16,orthopnea
+17,leg pain
+18,syncope
+18,syncopal episode
+19,loss of bowel fxn
+19,bowel incontinence
+20,loss of bladder function
+20,loss of bladder fxn
+20,urinary incontinence
+20,bladder incontinence

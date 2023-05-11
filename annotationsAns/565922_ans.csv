@@ -1,0 +1,30 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,paralysis
+1,decreased p.o. intake
+2,difficulty swallowing
+3,fevers
+4,chills
+5,vomiting
+6,loss of consciousness
+7,seizure
+8,vertigo
+9,tenderness
+10,chest pain
+11,shortness of breath
+12,photophobia
+13,neck stiffness
+14,weakness
+15,decreased feeling
+15,changes in sensation
+15,numbness
+16,neurologic symptoms
+16,"decreased feeling, clumsiness, falls, unsteadiness"
+17,clumsiness
+18,fall
+18,fell
+19,unsteadiness
+20,unable to stand up
+21,dysarthria
+22,musculoskeletal complaints
+22,arthritic complaints
+23,shoulder pain

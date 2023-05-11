@@ -1,0 +1,30 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,edema
+1,fever
+2,chills
+3,shortness of breath
+4,cough
+5,wheezing
+6,dizziness
+7,orthostatic symptoms
+8,left upper quadrant pain
+8,abdominal pain
+9,chest pain
+10,urinary symptoms
+11,nausea
+12,vomiting
+13,lower extremity pain
+13,leg pain
+14,swelling
+15,erythema
+16,diarrhea
+17,ulcer
+18,sternal discomfort
+19,wheezing
+20,shortness of breath
+21,chest pain
+22,chest pain
+23,swelling
+24,back pain
+25,right upper quadrant pain
+25,abdominal pain

@@ -1,0 +1,41 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,redness
+1,lesion
+2,rash
+3,redness
+3,erythema
+4,lesion
+5,lesions
+6,warmth
+7,tenderness
+8,edema
+8,swelling
+9,diarrhea
+10,vomiting
+11,not able to tolerate her oral antibiotics
+12,lesion
+13,bruises
+14,scrapes
+15,lesions
+16,nausea
+17,vomiting
+18,diarrhea
+19,lightheadedness
+20,dizziness
+21,fever
+21,fevers
+22,chills
+23,sweats
+24,chest pain
+25,chest pain
+26,lesions
+27,lesions
+28,lesion
+29,pain
+30,furuncles
+31,pain
+32,systemic complications
+32,systemic symptoms
+33,fever
+34,chills
+35,sweats

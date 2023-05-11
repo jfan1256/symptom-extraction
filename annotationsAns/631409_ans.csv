@@ -1,0 +1,46 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,chest pain
+0,chest tightness
+1,chest pain
+2,chest pain
+3,melena
+4,shortness of breath
+5,diaphoresis
+6,nausea
+7,vomiting
+8,palpitations
+9,chest tightness
+10,paroxysmal nocturnal dyspnea
+11,orthopnea
+12,swelling
+13,shortness of breath
+14,melena
+14,black stools
+15,loose stools
+16,abdominal discomfort
+17,abdominal pain
+18,nausea
+19,vomiting
+20,hematemesis
+21,hematochezia
+22,coffee ground emesis
+23,weight loss
+24,weight gain
+25,headache
+26,fevers
+27,chills
+28,cough
+29,sputum
+30,dysuria
+31,obstructive urinary symptoms
+32,headache
+33,visual changes
+34,paresthesias
+35,early satiety
+36,bleeding
+37,nasal congestion
+38,sciatica
+39,symptoms of arrythmia
+40,chest pain
+41,melena
+41,gastrointestinal bleeding

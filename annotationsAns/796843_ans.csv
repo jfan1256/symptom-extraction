@@ -1,0 +1,20 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,shortness of breath
+1,cough
+2,dyspnea on exertion
+3,symptoms of heart failure
+4,hematemesis
+4,blood in cough
+4,bloody sputum
+5,orthopnea
+6,edema
+7,weight has increased
+8,fever
+9,chills
+10,sweats
+11,chest discomfort
+12,chest pain
+13,anorexia
+14,malaise
+15,myalgias
+16,arthralgias

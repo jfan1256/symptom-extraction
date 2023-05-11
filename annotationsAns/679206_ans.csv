@@ -1,0 +1,40 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,weakness
+1,slurred speech
+2,nausea
+3,vomiting
+4,diplopia
+5,hiccups
+6,dizziness
+7,vertigo
+8,tingling
+9,headache
+10,fever
+11,chills
+12,nausea
+13,vomiting
+14,rash
+15,diarrhea
+16,bright red blood per rectum
+17,melena
+18,abdominal pain
+19,chest pain
+20,palpitations
+21,cough
+22,shortness of breath
+23,dyspnea on exertion
+24,change in bowel habits
+24,bowel changes
+25,urinary symptoms
+25,urinary changes
+25,change in bladder habits
+26,change in vision
+26,changes in vision
+26,vision changes
+27,changes in hearing
+27,change in hearing
+27,hearing changes
+28,tinnitus
+29,vertigo
+30,numbness
+31, incontinence

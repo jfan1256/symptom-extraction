@@ -1,0 +1,63 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,arm pain
+1,seizures
+2,lightheadedness
+3,nausea
+4,loss of consciousness
+5,antecedent symptoms
+5,presyncopal symptoms
+6,seizure activity
+7,postictal confusion
+8,tongue trauma
+9,incontinence
+10,syncope
+11,lightheadedness
+12,syncopal events
+13,seizures
+14,postictal confusion
+15,back pain
+16,orthopnea
+17,paroxysmal nocturnal dyspnea
+18,edema
+19,weight loss
+20,increased abdominal girth
+21,shortness of breath
+21,dyspnea
+22,weight loss
+23,fevers
+23,fever
+24,chills
+25,headaches
+26,back pain
+27,arm pain
+28,chest pain
+29,paroxysmal nocturnal dyspnea
+30,orthopnea
+31,dyspnea on exertion
+32,arm pain
+33,chest pain
+34,diaphoresis
+34,diaphoretic
+35,diaphoresis
+35,diaphoretic
+36,chest pain
+37,weight loss
+38,paresthesias
+39,chest pain
+40,diaphoresis
+40,diaphoretic
+41,syncope
+42,back pain
+43,arm pain
+44,chest pain
+45,paresthesias
+46,hand pain
+47,shortness of breath
+48,palpitations
+49,diaphoresis
+50,syncopal events
+50,syncope
+51,nausea
+52,shortness of breath
+53,pain
+54,dysuria

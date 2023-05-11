@@ -1,0 +1,45 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,drowsiness
+1,dysarthria
+2,confusion
+3,fall
+4,loss of consciousness
+5,shortness of breath
+6,dyspnea on exertion
+7,shortness of breath
+8,chest pain
+9,palpitations
+10,cough
+11,fevers
+12,chills
+13,nausea
+14,vomiting
+15,change in stools
+16,urinary frequency
+17,burning
+18,leg pain
+19,falls
+20,change in oral intake
+21,loss of consciousness
+22,chest symptoms
+23,bright red blood per rectum
+24,dizziness
+25,pain
+26,hematemesis
+27,faintness
+27,presyncope
+28,visual deficit
+28,vision changes
+28,loss of vision
+29,motor deficit
+30,poor exercise tolerance
+31,upper respiratory infection symptoms
+32,subjective temperature
+32,fever
+32,subjective fever
+33,symptoms of bradycardia
+34,bleeding
+35,calf pain
+36,foot pain
+36,foot cramps
+37,symptoms of rhinitis

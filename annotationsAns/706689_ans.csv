@@ -1,0 +1,33 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,chills
+1,congestion
+2,blood tinged sputum
+3,rust colored sputum
+4,upper respiratory infection symptoms
+5,weakness
+5,weak
+6,coughing fit
+6,cough
+7,hematemesis
+8,unable to drink liquids
+9,light-headed
+9,lightheadedness
+10,dizziness
+10,dizzy
+11,night sweats
+12,diarrhea
+13,hematochezia
+14,orthopnea
+15,paroxysmal nocturnal dyspnea
+16,edema
+17,chest pain
+18,shortness of breath
+18,dyspnea
+19,chest pain
+20,vomiting
+21,fever
+21,fevers
+22,cough
+23,upper respiratory infection symptoms
+24,chest pain
+25,hepatic symptoms

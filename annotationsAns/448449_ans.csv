@@ -1,0 +1,40 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,pain
+1,shortness of breath
+2,increased weight
+2,weight gain
+3,edema
+4,shortness of breath
+4,dyspnea
+5,orthopnea
+6,orthopnea
+7,paroxysmal nocturnal dyspnea
+8,increased abdominal girth
+9,weight gain
+10,increase in urine output
+10,polyuria
+11,cough
+12,abdominal pain
+13,pain
+14,fevers
+14,fever
+15,chills
+16,night sweats
+17,change in bms
+18,bloody bowel movements
+18,hematochezia
+19,diarrhea
+20,constipation
+21,headache
+22,lightheadedness
+23,change in eye function
+23,change in vision
+23,vision changes
+24,changes in hearing
+24,hearing changes
+24,change in ear function
+25,dyspnea on exertion
+26,swelling
+26,edema
+27,chest pain
+28,hemoptysis

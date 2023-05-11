@@ -1,0 +1,58 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,balance problems
+1,difficulty ambulating
+2,shoulder pain
+3,neck pain
+4,heat
+4,hot
+5,cold
+5,coldness
+6,difficulty walking
+7,dyspnea
+7,shortness of breath
+8,pain
+9,abdominal pain
+10,nausea
+11,dyspnea on exertion
+12,orthopnea
+13,chest pain
+14,dizziness
+15,lightheadedness
+16,loss of balance
+17,eye pressure
+18,cough
+18,coughing
+19,chills
+20,swelling
+20,edema
+21,abdominal bloating
+22,headache
+23,constipation
+24,fever
+24,fevers
+25,bladder dysfunction
+25,urinary symptoms
+26,vague complaints
+27,swelling
+27,edema
+28,nausea
+29,neck pain
+30,numbness
+31,pain
+32,headache
+33,constipation
+34,pain
+35,weakness
+36,dyspnea on exertion
+37,pain
+37,neck pain
+38,pain
+39,weakness
+40,fatigue
+41,vomited
+41,vomiting
+42,bowel dysfunction
+42,bowel symptoms
+43,abdominal girth
+43,abdominal bloating
+43,bloating

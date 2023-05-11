@@ -1,0 +1,27 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,shortness of breath
+0,dyspnea
+1,edema
+2,chest discomfort
+3,shortness of breath
+3,dyspnea
+4,swelling
+4,edema
+5,swelling
+5,edema
+6,tenderness
+7,upper respiratory symptoms
+7,symptoms of sinusitis
+8,cough
+9,sinus pain
+10,congestion
+11,fever
+12,chills
+13,chest spasm
+14,chest pain
+15,spasms
+16,constipation
+17,diarrhea
+18,ankle pain
+19,shortness of breath
+19,dyspnea

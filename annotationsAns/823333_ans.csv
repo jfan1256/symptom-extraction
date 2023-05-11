@@ -1,0 +1,27 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,hematuria
+1,fever
+2,headache
+3,cough
+4,trauma
+5,urinary hesitancy
+6,dribbling
+7,urinary incontinence
+8,dysuria
+9,flank pain
+10,fever
+11,chills
+12,night sweats
+13,po intake
+14,weight loss
+15,neurological symptoms
+16,chest pain
+17,shortness of breath
+18,orthopnea
+19,paroxysmal nocturnal dyspnea
+20,lower extremity edema
+21,nausea
+22,vomiting
+23,dizziness
+24,brbpr
+25,syncope

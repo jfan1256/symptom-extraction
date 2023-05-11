@@ -1,0 +1,31 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,chest pain
+0,chest discomfort
+0,chest pressure
+1,bleed
+2,shortness of breath
+3,cough
+4,dyspnea on exertion
+5,lightheadedness
+6,diaphoresis
+7,nausea
+8,vomiting
+9,palpitation
+9,palpitations
+10,orthopnea
+11,paroxysmal nocturnal dyspnea
+12,swelling
+13,hematochezia
+14,bright red blood per rectum
+15,hematemesis
+16,melanotic stools
+17,chills
+18,fevers
+19,weakness
+20,fatigue
+21,weight loss
+22,hemiparesis
+23,fevers
+24,chills
+25,dyspnea on exertion
+26,sundowning

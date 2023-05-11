@@ -1,0 +1,20 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,angina
+0,chest tightness
+0,chest pain
+1,angina
+1,chest pain
+2,similar episodes
+2,"chest tightness, shortness of breath, nausea, vomiting, and headache"
+3,chest pain
+4,chest pain
+5,shortness of breath
+5,dyspnea
+6,chest pain
+7,confusion
+8,leg wounds
+9,chest wound
+10,shortness of breath
+11,nausea
+12,vomiting
+13,headache

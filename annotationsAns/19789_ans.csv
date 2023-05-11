@@ -1,0 +1,41 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,dyspenic
+0,shortness of breath
+0,dyspnea
+1,edema
+1,swelling
+2,cough
+3,shortness of breath
+4,decreased sensation
+4,loss of sensation
+4,sensory loss
+5,leg pain
+5,pain
+6,sneezing
+7,watery eyes
+7,watering eyes
+8,sinus pain
+9,nasal drainage
+10,sore throat
+11,chest pain
+12,abdominal pain
+13,diarrhea
+14,blood in stool
+14,bloody stool
+15,dysuria
+16,rash
+17,joint pain
+18,orthopnea
+19,wheezing
+20,paroxysmal nocturnal dyspnea
+21,erythema
+22,edema
+22,swelling
+23,fevers
+23,fever
+24,chills
+25,nausea
+26,vomiting
+27,sweats
+28,chest pain
+29,shortness of breath

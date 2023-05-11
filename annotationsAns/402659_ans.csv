@@ -1,0 +1,38 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,blisters
+0,ulcers
+1,scabs
+1,scab
+2,dark purple color
+3,malodorous
+4,erythema
+4,redness
+5,swollen
+5,edema
+5,swelling
+6,fever
+6,fevers
+7,chills
+8,nausea
+9,vomiting
+10,cough
+11,headache
+12,malaise
+13,chills
+14,appetite changes
+15,weight change
+16,foot pain
+17,claudication
+18,chest pressure
+19,dyspnea on exertion
+20,sleep on one pillow at night
+21,lightheadedness
+22,presyncopal episodes
+23,motor deficits
+24,eschars
+24,eschar
+25,erythema
+26,foot ulcer pain
+26,toe ulcer pain
+26,pain
+27,sensory deficits

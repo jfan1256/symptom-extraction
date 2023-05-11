@@ -1,0 +1,23 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,edema
+0,swelling
+1,cough
+2,orthopnea
+3,paroxysmal nocturnal dyspnea
+4,decreased exercise tolerance
+5,edema
+5,swelling
+6,fever
+6,fevers
+7,chills
+8,night sweats
+9,sweats
+9,diaphoresis
+10,nausea
+11,vomiting
+12,diarrhea
+13,abdominal pain
+14,urine discoloration
+15,melena
+16,bright red blood per rectum
+17,rash

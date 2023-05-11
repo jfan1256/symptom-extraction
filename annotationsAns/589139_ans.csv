@@ -1,0 +1,50 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,shortness of breath
+1,angina
+1,chest pain
+2,feeling well
+3,chest pain
+4,shortness of breath
+5,paroxysmal nocturnal dyspnea
+6,orthopnea
+7,recalls nothing else
+8,oriented
+9,incontinence
+10,tongue biting
+11,muscle aches
+12,somnolence
+13,confusion
+14,weakness
+15,nausea
+16,vomiting
+17,bump
+18,headache
+19,any neurologic symptoms
+20,chest pain
+21,pain
+22,shortness of breath
+23,diaphoretic
+23,diaphoresis
+24,nausea
+24,nauseous
+25,vomiting
+26,palpitations
+27,presyncopal sensation
+28,dizziness
+29,fevers
+29,fever
+30,chills
+31,change in exercise tolerance
+32,symptoms
+33,syncope
+34,syncope
+35,loss of consciousness
+36,seizures
+37,neurologic symptoms
+38,paroxysmal nocturnal dyspnea
+39,edema
+40,orthopnea
+41,syncope
+42,chest pain
+43,palpitations
+44,palpitations

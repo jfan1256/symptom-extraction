@@ -1,0 +1,30 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,abdominal pain
+1,decreased appetite
+1,anorexia
+2,nausea
+3,vomiting
+4,chest tightness
+4,chest pain
+5,chest pain
+6,vomitus
+7,hematemesis
+7,vomiting blood
+8,diarrhea
+9,constipated
+9,constipation
+10,fever
+11,chills
+12,dysuria
+13,hematuria
+14,melena
+15,bright red blood per rectum
+16,shortness of breath
+17,weight gain
+18,orthopnea
+19,paroxysmal nocturnal dyspnea
+20,ischemic symptoms
+21,cough
+22,ischemic symptoms
+23,suicidality
+23,suicidal ideation

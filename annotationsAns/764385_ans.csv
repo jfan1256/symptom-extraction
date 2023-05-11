@@ -1,0 +1,33 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,nausea
+1,vomiting
+1,vomiting
+1,emesis
+2,diarrhea
+3,"""discomfort"" in his stomach"
+3,stomach discomfort
+4,weak
+4,weakness
+5,felt poorly
+6,decreased p.o. intake
+6,decreased po intake
+6,poor p.o. intake
+7,orthopnea
+8,paroxysmal nocturnal dyspnea
+9,edema
+10,palpitations
+11,lightheadedness
+12,syncope
+13,fever
+14,chills
+15,nausea
+16, neurologic symptoms
+17,nausea
+18,vomiting
+19,diarrhea
+20,"feels like ""he could lift a cow"""
+20,feels well
+20,feels better
+21,nausea
+22,vomiting
+23,diarrhea

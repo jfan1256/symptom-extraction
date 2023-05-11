@@ -1,0 +1,45 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,tired
+0,fatigue
+0,tiredness
+1,nauseated
+1,nausea
+2,chills
+3,headache
+4,nuchal rigidity
+5,difficulty with moving her head
+6,cough
+7,back pain
+8,fever
+9,hematemesis
+10,anorexic
+10,decreased appetite
+10,loss of appetite
+11,hemoptysis
+12,chest pain
+13,palpitations
+14,orthopnea
+15,edema
+16,dysphagia
+17,abdominal pain
+18,diarrhea
+19,hematuria
+20,dysuria
+21,flank pain
+22,vaginal discharge
+23,rash
+24,joint pain
+25,claudication
+26,scalp tenderness
+26,scalp pain
+27,rare bowel movements
+28,difficulty playing the piano with her right hand
+28,motor symptoms
+29,slurring of speech
+29,slurred speech
+30,wide-based gait
+31,short of breath
+31,shortness of breath
+32,nausea
+32,nauseous
+33,hemoptysis

@@ -1,0 +1,20 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,shortness of breath
+0,dyspnea
+1,dyspnea on exertion
+2,orthopnea
+3,paroxysmal nocturnal dyspnea
+4,abdominal discomfort
+5,cough
+6,fever
+7,chills
+8,nausea
+9,vomiting
+10,diarrhea
+11,orthopnea
+12,shortness of breath
+12,dyspnea
+13,tachycardia
+14,paroxysmal nocturnal dyspnea
+15,gastrointestinal symptoms
+16,genitourinary symptoms

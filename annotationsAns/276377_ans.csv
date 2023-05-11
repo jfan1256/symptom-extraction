@@ -1,0 +1,42 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,weakness
+0,weak
+1,fever
+1,fevers
+2,chills
+3,nausea
+4,vomiting
+5,poor oral intake
+6,change in her bowel habits
+7,symptoms consistent with an upper respiratory tract infection
+7,upper respiratory infection symptoms
+8,chest pain
+9,orthopnea
+10,edema
+11,shortness of breath
+12,back pain
+13,chest pain
+14,diaphoretic
+14,diaphoresis
+15,palpitations
+16,nausea
+17,vomiting
+18,diaphoresis
+19,chest pain
+20,pain
+21,shortness of breath
+22,diaphoresis
+23,headache
+24,chest pain
+25,pain
+26,shortness of breath
+27,diaphoretic
+27,diaphoresis
+28,hungry
+28,hunger
+28,polyphagia
+29,diaphoresis and hunger
+29,hypoglycemic symptoms
+30,shortness of breath on exertion
+30,dyspnea on exertion
+31,cough

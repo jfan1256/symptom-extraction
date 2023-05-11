@@ -1,0 +1,13 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,edema
+0,swelling
+1,cough
+2,fever
+3,orthopnea
+4,paroxysmal nocturnal dyspnea
+5,chest pain
+6,wheezing
+7,shortness of breath
+8,any symptom
+8,asymptomatic
+8,symptoms of congestive heart failure

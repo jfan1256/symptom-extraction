@@ -1,0 +1,24 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,melena
+1,back pain
+2,shortness of breath
+3,cold
+4,coughing
+5,chills
+6,chest pressure
+7,chest pain
+8,nausea
+9,sweating
+10,shortness of breath
+11,shortness of breath on exertion
+11,dyspnea on exertion
+12,paroxysmal nocturnal dyspnea
+13,orthopnea
+14,edema
+15,coughing up more mucus
+15,productive cough
+16,hematemesis
+16,blood-stained sputum
+17,dysuria
+18,hematuria
+19,other symptoms

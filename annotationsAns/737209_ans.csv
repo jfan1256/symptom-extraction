@@ -1,0 +1,26 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,fever
+0,fevers
+1,pain
+2,felt sick
+3,back pain
+4,knee pain
+5,felt warm
+6,induration
+7,cough
+8,sputum production
+9,nasal congestion
+10,headache
+11,chest pain
+12,shortness of breath
+13,abdominal pain
+14,nausea
+15,vomiting
+16,diarrhea
+17,rashes
+18,dysuria
+19,urinary frequency
+20,urinary urgency
+21,hip
+22,hip pain
+23,bleeding

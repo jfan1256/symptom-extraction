@@ -1,0 +1,26 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,fevers
+0,fever
+1,chills
+2,nausea
+3,vomiting
+4,diarrhea
+5,decreased appetite
+6,dysuria
+7,hematuria
+8,constipation
+8,constipated
+9,upper respiratory infection symptoms
+10,contractions
+11,leakage of fluid
+12,bleeding per vagina
+13,fetal movement
+14,anorexia
+15,nausea
+16,hungry
+17,any symptoms
+18,headaches
+19,spotty vision
+20,abdominal pain
+21,"spotty vision, headaches"
+21,symptoms

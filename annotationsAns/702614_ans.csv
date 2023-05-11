@@ -1,0 +1,40 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,concerns or complaints
+0,any symptom
+0,any concern
+0,any complaint
+1,fever
+2,chills
+3,anorexia
+4,changes in weight
+5,headaches
+6,dizziness
+7,lightheadedness
+8,weakness
+9,changes in vision
+10,tremor
+11,focal neurological complaints
+12,dysphagia
+13,cough
+14,shortness or breath
+15,chest pain
+16,nausea
+17,vomiting
+18,diarrhea
+19,constipation
+20,abdominal pain
+21,gastrointestinal symptoms
+22,dysuria
+23,hematuria
+24,hematochezia
+25,myalgia
+26,bone pain
+27,joint pain
+28,skin lesions
+29,peripheral neuropathy
+30,autonomic neuropathy
+31,chest discomfort
+32,feeling jitter
+33,unable to sleep
+33,insomnia
+34,chest discomfort

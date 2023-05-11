@@ -1,0 +1,25 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,fever
+0,fevers
+1,chills
+2,dizziness
+3,weight gain
+4,chest pain
+5,diaphoresis
+6,syncope
+7,orthopnea
+8,vomiting
+9,nausea
+10,shortness of breath
+11,paroxysmal nocturnal dyspnea
+12,gait disturbance
+13,pre-syncopal episode
+13,pre-syncope
+13,pre syncope
+14,weakness
+15,headache
+16,decreased oral intake
+16,poor oral intake
+16,poor po intake
+16,decreased p.o. intake
+16,decreased po intake

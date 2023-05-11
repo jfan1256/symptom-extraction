@@ -1,0 +1,26 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,chest pain
+1,symptomatic bradycardia
+1,lightheadedness
+1,chest pain
+2,chest pain
+3,chest pressure
+4,syncope
+5,any symptom
+5,chest pain
+5,chest pressure
+5,syncopal event
+6,chest pressure
+7,light headedness
+8,chest pain
+9,light headedness
+10,fall
+11,head trauma
+12,loss of consciousness
+13,awake
+14,conversant
+15,shortness of breath
+16,fever
+17,chills
+18,sweats
+19,angina

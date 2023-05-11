@@ -1,0 +1,27 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,dizziness
+1,lightheadedness
+2,syncope
+3,palpitations
+4,change in weight
+5,fever
+6,chills
+7,night sweats
+8,edema
+8,swelling
+9,shortness of breath
+10,decreased exercise tolerance
+11,orthopnea
+12,paroxysmal nocturnal dyspnea
+13,cough
+14,change in bowel habits
+15,urgency
+15,urinary urgency
+16,dysuria
+17,frequency
+17,urinary frequency
+18,nocturia
+19,arthralgias
+20,myalgias
+21,upper respiratory infection symptoms
+21,symptoms of upper respiratory symptoms

@@ -1,0 +1,43 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,shortness of breath
+1,decrease in exercise tolerance
+1,decreased exercise tolerance
+2,indigestion
+3,diarrhea
+4,abdominal discomfort
+5,shortness of breath
+6,weight loss
+7,orthopnea
+8,paroxysmal nocturnal dyspnea
+9,palpitations
+10,chest pain
+11,edema
+12,nausea
+13,vomiting
+14,hematochezia
+15,melena
+16,fevers
+16,fever
+17,"shortness of breath, decreased exercise tolerance, indigestion, diarrhea, and abdominal discomfort"
+17,complaints similar to his current presentation
+18,diarrhea
+19,abdominal pain
+20,nausea
+21,vomiting
+22,dyspnea
+22,shortness of breath
+23,dyspnea on exertion
+24,light-headedness
+24,lightheadedness
+25,dizziness
+26,shortness of breath
+27,cough
+28,palpitations
+28,symptoms of arrhythmia
+29,fatigue
+30,improved energy
+31,shortness of breath
+32,chest pain
+32,chest pains
+33,palpitations
+34,improved appetite

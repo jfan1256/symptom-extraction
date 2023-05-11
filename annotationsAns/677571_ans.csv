@@ -1,0 +1,38 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,syncope
+1,lightheaded
+1,lightheadedness
+2,diaphoretic
+2,diaphoresis
+3,heart racing
+3,palpitations
+3,tachycardia
+4,dizziness
+4,dizzy
+5,unsteady
+5,unsteadiness
+6,falling
+6,fall
+7,loss of consciousness
+8,chest pain
+9,fainting
+10,not felt well
+11,shortness of breath
+11,dyspnea
+12,shortness of breath
+13,cough
+14,fatigue
+15,fever
+16,chills
+17,edema
+18,melena
+19,bright red blood per rectum
+20,hematochezia
+21,dysuria
+22,hematuria
+23,nausea
+24,nauseas
+25,fainted
+26,cough
+27,substernal heaviness
+27,chest pressure

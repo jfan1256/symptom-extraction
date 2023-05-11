@@ -1,0 +1,24 @@
+SYMPTOM_IDX,ANSWER_FORM
+0,shortness of breath
+1,dyspneic on exertion
+1,dyspnea on exertion
+2,cough
+3,fever
+4,chills
+5,hemoptysis
+6,runny nose
+7,sore throat
+8,symptoms of an upper respiratory tract infection
+8,upper respiratory infection symptoms
+9,orthopnea
+10,waking up in the middle of the night
+10,paroxysmal nocturnal dyspnea
+11,diarrhea
+12,black stools
+12,melena
+13,bleeding
+14,hematochezia
+14,bloody stool
+14,bloody stools
+15,symptoms of heart failure
+15,"orthopnea, paroxysmal nocturnal dyspnea"
