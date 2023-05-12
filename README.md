@@ -39,8 +39,11 @@ This dataset contains three columns: Sentence, Word, and Tag. The sentence colum
 ### _"GRU + Fine-Tuned Embeddings" File_
 This python file, coded in jupyter notebook, creates the best-performing deep learning model proposed in my research paper. It utilizes a GRU deep learning framework to classify each word as a symptom or not. To capture word semantics it utilzies a combination of Google's GLoVe Embedding combined with the my self-trained word embedding. This self-trained word embedding was trained on the MIMIC-III dataset using the FastText model. In order to reduce overfiting, the model utilizes Sample Weights, Stratified10Fold Validation, Oversampling, Undersampling, and a Early Stopping function. The model was evaluated using F1-Metric.
 
+### _embeddingModel Folder_
+The folder contains all the word embedding models I created through self-training and fine-tuning GLoVe, FastTexts, and Word2Vec respectively. 
+
 ### _"embedding" Folder_
-This folder contains all three preexisting embedding matrices that has been created and trained through my self-training and fine-tuning algorithm. The models utilized are GLoVe, FastTexts, and Word2Vec respectively. 
+This folder contains all three preexisting embedding matrices that have been created through my self-training and fine-tuning models (you can access these models in the _"embeddingModel"_ folder).
 
 ### _"allModels" Folder_
 This folder contains all the models that I designed and experimented with in order to find the best performing model. These models can be used as benchmarks or a basis for future experimentations. 
