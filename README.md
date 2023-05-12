@@ -48,5 +48,8 @@ This folder contains all three preexisting embedding matrices that have been cre
 ### _"allModels" Folder_
 This folder contains all the models that I designed and experimented with in order to find the best performing model. These models can be used as benchmarks or a basis for future experimentations. 
 
+### _"BestModel" File_
+This file is formatted in h5 and it contains the best performing model trained by the file _"GRU + Fine-Tuned Embeddings"_. If you choose to not train your own model, you can automatically load this file into jupyter notebook to run simulations and tests. 
+
 ## Goal
 Currently the best performing model achieves at 0.956 F1 Score. Utilize this code as a basis for future experimentations. For example, try utilizing a different classifier model, such as XLNet. In addition, try self-training or fine-tuning your own Word2Vec or FastText model on a different dataset. Lastly, expand the dataset and add more token words to increase performance and suitability. 
