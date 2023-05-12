@@ -45,7 +45,7 @@ The folder contains all the word embedding models I created through self-trainin
 ### _"embedding" Folder_
 This folder contains all three preexisting embedding matrices that have been created through my self-training and fine-tuning models (you can access these models in the _"embeddingModel"_ folder).
 
-### _"allModels" Folder_
+### _"allDLModels" Folder_
 This folder contains all the models that I designed and experimented with in order to find the best performing model. These models can be used as benchmarks or a basis for future experimentations. 
 
 ### _"BestModel" File_
